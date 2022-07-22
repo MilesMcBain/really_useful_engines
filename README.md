@@ -18,3 +18,4 @@ principles that can transform Data Science teams into Data Science engines.
 
 ## Slides
 
+https://docs.google.com/presentation/d/1pzeLJV7I8xaYVWFsYOe0th811Xg9unjxCRiI_cP9v2E/edit?usp=sharing
